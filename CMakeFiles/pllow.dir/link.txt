@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC   -shared -Wl,-soname,pllow.so -o lib/pllow.so CMakeFiles/pllow.dir/pllow.c.o CMakeFiles/pllow.dir/get_tid.c.o -lfftw3f -lpthread 

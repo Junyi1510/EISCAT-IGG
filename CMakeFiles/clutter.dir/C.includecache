@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/clutter.c
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+math.h
+-
+fftw3.h
+-
+sys/time.h
+-
+time.h
+-
+pthread.h
+-
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/get_tid.c
+time.h
+-
+stdio.h
+-
+

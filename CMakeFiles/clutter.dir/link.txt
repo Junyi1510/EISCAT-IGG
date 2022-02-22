@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC   -shared -Wl,-soname,clutter.so -o lib/clutter.so CMakeFiles/clutter.dir/clutter.c.o CMakeFiles/clutter.dir/get_tid.c.o -lfftw3f -lpthread 

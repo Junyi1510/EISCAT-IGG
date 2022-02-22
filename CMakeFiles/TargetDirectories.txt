@@ -1,0 +1,6 @@
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/edit_cache.dir
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/clutter.dir
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/rebuild_cache.dir
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/alt_decoder.dir
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/pllow.dir
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/CMakeFiles/plwin.dir

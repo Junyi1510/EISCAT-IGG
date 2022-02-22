@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC   -shared -Wl,-soname,plwin.so -o lib/plwin.so CMakeFiles/plwin.dir/plwin.c.o CMakeFiles/plwin.dir/get_tid.c.o -lfftw3f -lpthread 

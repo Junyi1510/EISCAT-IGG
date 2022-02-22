@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/get_tid.c
+time.h
+-
+stdio.h
+-
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/plwin.c
+stdlib.h
+-
+string.h
+-
+windows.h
+-
+strings.h
+-
+unistd.h
+-
+math.h
+-
+/home/kstdev/amd/aocl/2.0/amd-fftw/include/fftw3.h
+-
+fftw3_mkl.h
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/fftw3_mkl.h
+fftw3.h
+-
+stdio.h
+-
+time.h
+-
+sys/time.h
+-
+pthread.h
+-
+

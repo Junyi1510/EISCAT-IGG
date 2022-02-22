@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC   -shared -Wl,-soname,alt_decoder.so -o lib/alt_decoder.so CMakeFiles/alt_decoder.dir/alt_decoder.c.o CMakeFiles/alt_decoder.dir/get_tid.c.o -lpthread 

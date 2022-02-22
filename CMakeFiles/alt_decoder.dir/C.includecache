@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/alt_decoder.c
+sys/types.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+assert.h
+-
+pthread.h
+-
+
+/home/wjy/lpgen_main/lpgen_main/lpgen-main220222/get_tid.c
+time.h
+-
+stdio.h
+-
+

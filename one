@@ -1,0 +1,2 @@
+import pltest as pt
+pt.pltest('manda_va.par',[p],[15234489.mat])
